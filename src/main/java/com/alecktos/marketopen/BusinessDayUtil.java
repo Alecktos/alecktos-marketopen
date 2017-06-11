@@ -1,6 +1,6 @@
 //http://stackoverflow.com/questions/1044921/a-good-business-calendar-library-in-java
 
-package com.stocklibrary;
+package com.alecktos.marketopen;
 
 import org.apache.commons.lang3.time.DateUtils;
 

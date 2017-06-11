@@ -1,4 +1,4 @@
-package com.stocklibrary;
+package com.alecktos.marketopen;
 
 import org.junit.Test;
 

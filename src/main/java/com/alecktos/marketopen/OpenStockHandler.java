@@ -1,6 +1,4 @@
-package com.stocklibrary;
-
-import com.DateTime;
+package com.alecktos.marketopen;
 
 import javax.inject.Singleton;
 import java.io.Serializable;
