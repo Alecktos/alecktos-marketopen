@@ -1,5 +1,7 @@
 package com.alecktos.marketopen;
 
+import com.alecktos.misc.DateTime;
+
 import javax.inject.Singleton;
 import java.io.Serializable;
 
